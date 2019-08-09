@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to Noel
 
-You can use the [editor on GitHub](https://github.com/venomcoding/noel/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+You can join Noel's Support Server [here](https://discordapp.com/api/oauth2/authorize?client_id=589151834132840480&permissions=8&scope=bot) if you have any questions
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
